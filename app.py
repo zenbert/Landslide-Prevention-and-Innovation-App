@@ -6,7 +6,7 @@ import numpy as np
 from os.path import dirname, join, realpath
 
 # add banner image
-st.header("Landslide prevention and management")
+st.header("Landslide Prevention and Management App")
 st.image("images/landslide1.png")
 st.subheader(
     """
