@@ -3,6 +3,5 @@ numpy
 matplotlib
 streamlit==1.12.2
 joblib
-sckit-learn
 seaborn
 catboost
